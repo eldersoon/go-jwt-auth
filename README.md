@@ -1,7 +1,4 @@
 # GoLang simple jtw authentication
-
-Certainly! Here's a comprehensive description for your application:
-
 ---
 
 ### Application Description
